@@ -136,3 +136,9 @@ img{
   padding-top: 250px;
   padding-bottom: 250px;
 }
+
+
+ .contact-form-message {
+    width: 500px;
+    height: 200px;
+}
