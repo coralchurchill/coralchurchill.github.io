@@ -141,9 +141,13 @@ img{
  .contact-form-message {
     width: 500px;
     height: 200px;
+    padding: 10px;
+    font-family: Arial;
 }
 
 .contact-form-email {
     width: 500px;
     height: 24px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
